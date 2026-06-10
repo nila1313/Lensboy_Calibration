@@ -1,0 +1,10 @@
+{
+    "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/blur-distortion-overexposure/CADDX000013.MP4",
+    "total_frames": 11160,
+    "fps": 60.0,
+    "width": 1920,
+    "height": 1080,
+    "duration_seconds": 186.0,
+    "every_n_frames": 10,
+    "max_frames": null
+}

@@ -1,0 +1,10 @@
+{
+    "total_frames": 1116,
+    "valid_frames": 72,
+    "rejected_frames": 1044,
+    "min_corners_for_use": 8,
+    "detections_json": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/detections/charuco_detections.json",
+    "summary_csv": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/reports/charuco_detection_summary.csv",
+    "debug_detected_corners_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/debug/detected_corners",
+    "debug_rejected_frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/debug/rejected_frames"
+}

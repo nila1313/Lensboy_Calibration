@@ -1,0 +1,14 @@
+{
+    "input_video": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/blur-distortion-overexposure/CADDX000013.MP4",
+    "output_video": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/undistorted/video/undistorted_alpha_0.3.mp4",
+    "alpha": 0.3,
+    "crop_to_roi": false,
+    "input_width": 1920,
+    "input_height": 1080,
+    "output_width": 1920,
+    "output_height": 1080,
+    "fps": 60.0,
+    "input_total_frames": 11160,
+    "written_frames": 11160,
+    "model_metrics": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/reports/lensboy_calibration_metrics.json"
+}

@@ -1,0 +1,58 @@
+{
+    "total_extracted_frames": 1116,
+    "valid_detection_frames_from_previous_step": 70,
+    "lensboy_usable_frames": 70,
+    "skipped_valid_looking_frames": 0,
+    "image_width": 1920,
+    "image_height": 1080,
+    "target_points_shape": [
+        36,
+        3
+    ],
+    "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0/models/lensboy_opencv_model.json",
+    "board_config": {
+        "board_width": 7,
+        "board_height": 7,
+        "square_size_real": 0.14285714285714285,
+        "marker_size_real": 0.1,
+        "dictionary_type": 0,
+        "dictionary_name": "DICT_4X4_50"
+    },
+    "fx": 809.7436429349908,
+    "fy": 814.5278647905678,
+    "cx": 988.7144202566462,
+    "cy": 535.3314723026175,
+    "K": [
+        [
+            809.7436429349908,
+            0.0,
+            988.7144202566462
+        ],
+        [
+            0.0,
+            814.5278647905678,
+            535.3314723026175
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "distortion_coeffs": [
+        -0.28011248270213845,
+        0.07889293114679855,
+        0.0011105421340070812,
+        -0.0005994612306581487,
+        -0.009938470782527695,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ]
+}

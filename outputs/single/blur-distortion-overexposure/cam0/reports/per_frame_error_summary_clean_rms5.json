@@ -1,0 +1,10 @@
+{
+    "evaluated_frames": 70,
+    "mean_rms_px": 1.9718005759375437,
+    "median_rms_px": 2.021409511566162,
+    "max_rms_px": 4.304553031921387,
+    "frames_above_2px": 36,
+    "frames_above_5px": 0,
+    "frames_above_10px": 0,
+    "frames_above_20px": 0
+}

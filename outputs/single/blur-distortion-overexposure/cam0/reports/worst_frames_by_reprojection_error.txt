@@ -1,0 +1,28 @@
+Worst frames by reprojection RMS error
+============================================================
+
+frame_003490.png | corners=8 | RMS=11.461px | mean=10.068px | max=18.708px
+frame_000340.png | corners=9 | RMS=6.810px | mean=4.803px | max=18.209px
+frame_003370.png | corners=9 | RMS=4.305px | mean=3.546px | max=9.909px
+frame_007370.png | corners=8 | RMS=3.973px | mean=3.468px | max=6.781px
+frame_010580.png | corners=11 | RMS=3.742px | mean=3.468px | max=5.647px
+frame_003150.png | corners=8 | RMS=3.156px | mean=2.657px | max=6.382px
+frame_003180.png | corners=8 | RMS=3.142px | mean=2.891px | max=5.070px
+frame_009240.png | corners=9 | RMS=3.098px | mean=2.653px | max=5.969px
+frame_007390.png | corners=9 | RMS=3.090px | mean=2.789px | max=4.749px
+frame_001270.png | corners=8 | RMS=2.913px | mean=2.603px | max=4.890px
+frame_009220.png | corners=10 | RMS=2.685px | mean=2.399px | max=5.168px
+frame_007090.png | corners=8 | RMS=2.685px | mean=2.590px | max=3.595px
+frame_007130.png | corners=8 | RMS=2.654px | mean=2.407px | max=5.003px
+frame_002930.png | corners=10 | RMS=2.598px | mean=2.313px | max=4.629px
+frame_007080.png | corners=11 | RMS=2.582px | mean=2.250px | max=5.030px
+frame_009250.png | corners=10 | RMS=2.559px | mean=2.180px | max=4.682px
+frame_003480.png | corners=8 | RMS=2.543px | mean=2.329px | max=3.961px
+frame_002990.png | corners=9 | RMS=2.456px | mean=2.182px | max=4.563px
+frame_009230.png | corners=9 | RMS=2.449px | mean=2.266px | max=4.454px
+frame_003160.png | corners=8 | RMS=2.435px | mean=2.085px | max=4.748px
+frame_002920.png | corners=8 | RMS=2.425px | mean=2.290px | max=3.396px
+frame_002980.png | corners=9 | RMS=2.398px | mean=2.097px | max=4.216px
+frame_007430.png | corners=9 | RMS=2.376px | mean=2.173px | max=3.550px
+frame_007250.png | corners=9 | RMS=2.366px | mean=2.224px | max=3.496px
+frame_003200.png | corners=11 | RMS=2.357px | mean=2.209px | max=3.961px

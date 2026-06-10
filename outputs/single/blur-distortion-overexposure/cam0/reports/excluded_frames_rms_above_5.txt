@@ -1,0 +1,5 @@
+Excluded frames with RMS reprojection error > 5px
+======================================================================
+
+frame_000340.png
+frame_003490.png

@@ -1,2 +1,12 @@
-outputs/
+outputs/*
+!outputs/single/
+outputs/single/*
+!outputs/single/blur-distortion-overexposure/
+outputs/single/blur-distortion-overexposure/*
+!outputs/single/blur-distortion-overexposure/cam0/
+outputs/single/blur-distortion-overexposure/cam0/*
+!outputs/single/blur-distortion-overexposure/cam0/plots/
+!outputs/single/blur-distortion-overexposure/cam0/plots/**
+!outputs/single/blur-distortion-overexposure/cam0/reports/
+!outputs/single/blur-distortion-overexposure/cam0/reports/**
 .DS_Store
