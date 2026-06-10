@@ -1,0 +1,9 @@
+project_root: "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration"
+
+data_root: "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI"
+
+single_dataset_name: "blur-distortion-overexposure"
+
+single_input_folder: "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/blur-distortion-overexposure"
+
+single_output_folder: "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/single/blur-distortion-overexposure/cam0"

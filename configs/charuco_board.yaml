@@ -1,0 +1,6 @@
+board_width: 7
+board_height: 7
+square_size_real: 0.14285714285714285
+marker_size_real: 0.1
+dictionary_type: 0
+dictionary_name: "DICT_4X4_50"
