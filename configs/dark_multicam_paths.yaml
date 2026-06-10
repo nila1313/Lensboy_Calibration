@@ -1,0 +1,9 @@
+project_root: "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration"
+
+data_root: "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI"
+
+dataset_name: "dark_frames-no_common_pose_frame"
+
+input_folder: "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame"
+
+output_folder: "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame"
