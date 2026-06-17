@@ -31,6 +31,10 @@ def create_charuco_board(board_config):
             aruco_dict
         )
 
+    if bool(board_config.get("legacy_pattern", False)) and hasattr(board, "setLegacyPattern"):
+        board.setLegacyPattern(True)
+        print("Using OpenCV legacy ChArUco board pattern.")
+
     return board, aruco_dict
 
 

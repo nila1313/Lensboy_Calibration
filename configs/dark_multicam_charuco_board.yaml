@@ -4,3 +4,4 @@ square_size_real: 3.0
 marker_size_real: 1.8
 dictionary_type: 0
 dictionary_name: "DICT_4X4_50"
+legacy_pattern: true
