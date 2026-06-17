@@ -1,0 +1,65 @@
+[
+    {
+        "camera": "cam1",
+        "poses_estimated": 51,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 2.8148408298398935,
+        "median_pose_rms_px": 1.6209907531738281,
+        "max_pose_rms_px": 10.327319145202637,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam1/board_poses.json"
+    },
+    {
+        "camera": "cam2",
+        "poses_estimated": 56,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 1.0650774224528246,
+        "median_pose_rms_px": 0.9120894968509674,
+        "max_pose_rms_px": 3.576171636581421,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam2/board_poses.json"
+    },
+    {
+        "camera": "cam3",
+        "poses_estimated": 67,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 1.4550402044360318,
+        "median_pose_rms_px": 0.8245408535003662,
+        "max_pose_rms_px": 7.067415237426758,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam3/board_poses.json"
+    },
+    {
+        "camera": "cam4",
+        "poses_estimated": 65,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 3.4427001467117897,
+        "median_pose_rms_px": 2.1670637130737305,
+        "max_pose_rms_px": 24.479976654052734,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam4/board_poses.json"
+    },
+    {
+        "camera": "cam5",
+        "poses_estimated": 204,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 0.1875100402417136,
+        "median_pose_rms_px": 0.15704414993524551,
+        "max_pose_rms_px": 0.9995328783988953,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam5/board_poses.json"
+    },
+    {
+        "camera": "cam6",
+        "poses_estimated": 153,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 0.5897795713804905,
+        "median_pose_rms_px": 0.5493426322937012,
+        "max_pose_rms_px": 1.7466940879821777,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam6/board_poses.json"
+    },
+    {
+        "camera": "cam7",
+        "poses_estimated": 118,
+        "failed_pose_estimates": 0,
+        "mean_pose_rms_px": 1.2775909441002344,
+        "median_pose_rms_px": 1.1615599393844604,
+        "max_pose_rms_px": 3.5629043579101562,
+        "poses_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/board_poses/cam7/board_poses.json"
+    }
+]

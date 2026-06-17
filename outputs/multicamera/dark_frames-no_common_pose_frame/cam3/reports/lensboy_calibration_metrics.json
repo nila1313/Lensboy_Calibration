@@ -1,0 +1,54 @@
+{
+    "camera": "cam3",
+    "status": "success",
+    "usable_frames": 67,
+    "image_width": 2448,
+    "image_height": 2048,
+    "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam3/models/lensboy_opencv_model.json",
+    "board_config": {
+        "board_width": 6,
+        "board_height": 8,
+        "square_size_real": 3.0,
+        "marker_size_real": 1.8,
+        "dictionary_type": 0,
+        "dictionary_name": "DICT_4X4_50",
+        "legacy_pattern": true
+    },
+    "fx": 1515.816424371217,
+    "fy": 1511.9004199922292,
+    "cx": 1214.3545616277186,
+    "cy": 1005.2190942736058,
+    "K": [
+        [
+            1515.816424371217,
+            0.0,
+            1214.3545616277186
+        ],
+        [
+            0.0,
+            1511.9004199922292,
+            1005.2190942736058
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "distortion_coeffs": [
+        -0.24783869806724962,
+        0.12267609007528876,
+        -0.00015906965636490147,
+        -0.0004418210243541139,
+        -0.03820223924371012,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ]
+}

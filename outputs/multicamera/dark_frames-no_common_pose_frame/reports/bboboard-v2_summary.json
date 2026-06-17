@@ -1,0 +1,8 @@
+{
+    "boardWidth": 6,
+    "boardHeight": 8,
+    "square_size": 1,
+    "marker_size": 0.6,
+    "square_size_real": 3,
+    "dictionary_type": 0
+}

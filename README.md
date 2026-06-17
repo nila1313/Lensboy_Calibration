@@ -21,7 +21,8 @@ Lensboy_Calibration/
 │   ├── 10-15b_*.py                        # Dark multicamera inspection, detection, poses, relative extrinsics
 │   └── 12c-12e_*.py                       # Dictionary and board-layout diagnostics
 └── outputs/
-    └── single/...                         # Example generated reports and plots
+    ├── single/...                         # Example single-camera reports and plots
+    └── multicamera/...                    # Dark multicamera reports and plots
 ```
 
 ## Requirements
@@ -110,6 +111,14 @@ Generated files are written under the configured output folders. The main report
 - `undistorted/` for preview images and videos.
 
 The repository keeps lightweight example outputs, but large generated datasets and videos should stay outside Git unless they are intentionally part of a result snapshot.
+
+Tracked multicamera outputs include:
+
+- Per-camera Lensboy calibration reports and diagnostic plots under `outputs/multicamera/dark_frames-no_common_pose_frame/cam*/reports/` and `cam*/plots/`.
+- Rig-level pose reports under `outputs/multicamera/dark_frames-no_common_pose_frame/reports/`.
+- Rig-level camera layout plots under `outputs/multicamera/dark_frames-no_common_pose_frame/plots/`.
+
+Extracted multicamera frames, videos, and other heavy generated artifacts are intentionally ignored.
 
 ## Notes
 

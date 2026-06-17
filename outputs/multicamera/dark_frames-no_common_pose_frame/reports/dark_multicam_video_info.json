@@ -1,0 +1,65 @@
+[
+    {
+        "filename": "20260530_cam1_3.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam1_3.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "duration_seconds": 47.5
+    },
+    {
+        "filename": "20260530_cam2_3.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam2_3.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "duration_seconds": 47.5
+    },
+    {
+        "filename": "20260530_cam3_3.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam3_3.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "duration_seconds": 47.5
+    },
+    {
+        "filename": "20260530_cam4_3.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam4_3.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "duration_seconds": 47.5
+    },
+    {
+        "filename": "20260530_cam5_3.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam5_3.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 1440,
+        "height": 1088,
+        "duration_seconds": 47.5
+    },
+    {
+        "filename": "20260530_cam6_3.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam6_3.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 1440,
+        "height": 1088,
+        "duration_seconds": 47.5
+    },
+    {
+        "filename": "20260530_cam7_2.ccv.mp4",
+        "path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam7_2.ccv.mp4",
+        "total_frames": 475,
+        "fps": 10.0,
+        "width": 1440,
+        "height": 1088,
+        "duration_seconds": 47.5
+    }
+]

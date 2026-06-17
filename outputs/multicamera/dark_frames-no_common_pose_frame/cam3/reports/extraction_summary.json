@@ -1,0 +1,12 @@
+{
+    "camera": "cam3",
+    "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam3_3.ccv.mp4",
+    "total_video_frames": 475,
+    "fps": 10.0,
+    "width": 2448,
+    "height": 2048,
+    "every_n_frames": 1,
+    "saved_frames": 475,
+    "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam3/frames",
+    "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam3/reports/frame_manifest.csv"
+}

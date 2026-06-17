@@ -1,0 +1,14 @@
+{
+    "camera": "cam7",
+    "total_frames": 475,
+    "valid_frames": 118,
+    "rejected_frames": 357,
+    "min_corners_for_use": 8,
+    "preprocess_counts": {
+        "equalized": 22,
+        "clahe": 87,
+        "gamma_0.65": 49
+    },
+    "detections_json": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam7/detections/charuco_detections.json",
+    "summary_csv": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam7/reports/charuco_detection_summary.csv"
+}

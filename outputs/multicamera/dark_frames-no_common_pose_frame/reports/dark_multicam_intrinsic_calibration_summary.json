@@ -1,0 +1,380 @@
+[
+    {
+        "camera": "cam1",
+        "status": "success",
+        "usable_frames": 51,
+        "image_width": 2448,
+        "image_height": 2048,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam1/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1509.653247192028,
+        "fy": 1505.813786896702,
+        "cx": 1221.5349782479836,
+        "cy": 1034.6599057091712,
+        "K": [
+            [
+                1509.653247192028,
+                0.0,
+                1221.5349782479836
+            ],
+            [
+                0.0,
+                1505.813786896702,
+                1034.6599057091712
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.24005201432037462,
+            0.11673265792756354,
+            -0.0004923703104121234,
+            -0.0010311580387989186,
+            -0.036417006572076215,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "camera": "cam2",
+        "status": "success",
+        "usable_frames": 56,
+        "image_width": 2448,
+        "image_height": 2048,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam2/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1512.807981148482,
+        "fy": 1513.9848490514955,
+        "cx": 1218.6559655291583,
+        "cy": 1008.990815883393,
+        "K": [
+            [
+                1512.807981148482,
+                0.0,
+                1218.6559655291583
+            ],
+            [
+                0.0,
+                1513.9848490514955,
+                1008.990815883393
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.2496329426913741,
+            0.12341306213438687,
+            -0.0001564148804475102,
+            3.895928091833659e-05,
+            -0.03698248345088397,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "camera": "cam3",
+        "status": "success",
+        "usable_frames": 67,
+        "image_width": 2448,
+        "image_height": 2048,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam3/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1515.816424371217,
+        "fy": 1511.9004199922292,
+        "cx": 1214.3545616277186,
+        "cy": 1005.2190942736058,
+        "K": [
+            [
+                1515.816424371217,
+                0.0,
+                1214.3545616277186
+            ],
+            [
+                0.0,
+                1511.9004199922292,
+                1005.2190942736058
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.24783869806724962,
+            0.12267609007528876,
+            -0.00015906965636490147,
+            -0.0004418210243541139,
+            -0.03820223924371012,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "camera": "cam4",
+        "status": "success",
+        "usable_frames": 65,
+        "image_width": 2448,
+        "image_height": 2048,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam4/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1494.2112303723738,
+        "fy": 1492.2203170853213,
+        "cx": 1209.8181791261197,
+        "cy": 988.1023832371368,
+        "K": [
+            [
+                1494.2112303723738,
+                0.0,
+                1209.8181791261197
+            ],
+            [
+                0.0,
+                1492.2203170853213,
+                988.1023832371368
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.23812331504291848,
+            0.10447564268037303,
+            -0.00038514344028787393,
+            -0.0007448304684966078,
+            -0.025557079223974384,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "camera": "cam5",
+        "status": "success",
+        "usable_frames": 204,
+        "image_width": 1440,
+        "image_height": 1088,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam5/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1185.6481215029041,
+        "fy": 1198.182320335929,
+        "cx": 711.3983352963579,
+        "cy": 562.1019749769753,
+        "K": [
+            [
+                1185.6481215029041,
+                0.0,
+                711.3983352963579
+            ],
+            [
+                0.0,
+                1198.182320335929,
+                562.1019749769753
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.24537550030608446,
+            0.11657719667124716,
+            -0.0006491482781642703,
+            -0.0005626813837473336,
+            -0.03079918948161075,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "camera": "cam6",
+        "status": "success",
+        "usable_frames": 153,
+        "image_width": 1440,
+        "image_height": 1088,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam6/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1195.7208016203092,
+        "fy": 1205.6270833055405,
+        "cx": 718.2706592806064,
+        "cy": 555.6757466856806,
+        "K": [
+            [
+                1195.7208016203092,
+                0.0,
+                718.2706592806064
+            ],
+            [
+                0.0,
+                1205.6270833055405,
+                555.6757466856806
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.2520067317634223,
+            0.14057504166525223,
+            0.0005113120566252761,
+            0.0002461593174973653,
+            -0.053417155978537245,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "camera": "cam7",
+        "status": "success",
+        "usable_frames": 118,
+        "image_width": 1440,
+        "image_height": 1088,
+        "model_path": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam7/models/lensboy_opencv_model.json",
+        "board_config": {
+            "board_width": 6,
+            "board_height": 8,
+            "square_size_real": 3.0,
+            "marker_size_real": 1.8,
+            "dictionary_type": 0,
+            "dictionary_name": "DICT_4X4_50",
+            "legacy_pattern": true
+        },
+        "fx": 1200.4365518894556,
+        "fy": 1213.816824237424,
+        "cx": 740.6790441659339,
+        "cy": 553.8175169730682,
+        "K": [
+            [
+                1200.4365518894556,
+                0.0,
+                740.6790441659339
+            ],
+            [
+                0.0,
+                1213.816824237424,
+                553.8175169730682
+            ],
+            [
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "distortion_coeffs": [
+            -0.22761243544557155,
+            0.06466843343204452,
+            0.0006162524599695776,
+            0.00011822331722641573,
+            0.032985866144842224,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "camera": "cam1",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam1_3.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam1/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam1/reports/frame_manifest.csv"
+    },
+    {
+        "camera": "cam2",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam2_3.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam2/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam2/reports/frame_manifest.csv"
+    },
+    {
+        "camera": "cam3",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam3_3.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam3/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam3/reports/frame_manifest.csv"
+    },
+    {
+        "camera": "cam4",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam4_3.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 2448,
+        "height": 2048,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam4/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam4/reports/frame_manifest.csv"
+    },
+    {
+        "camera": "cam5",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam5_3.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 1440,
+        "height": 1088,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam5/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam5/reports/frame_manifest.csv"
+    },
+    {
+        "camera": "cam6",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam6_3.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 1440,
+        "height": 1088,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam6/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam6/reports/frame_manifest.csv"
+    },
+    {
+        "camera": "cam7",
+        "video_path": "/Users/nilamaitrachaity/Desktop/Camera_Calibration_DATA_MPI/dark_frames-no_common_pose_frame/20260530_cam7_2.ccv.mp4",
+        "total_video_frames": 475,
+        "fps": 10.0,
+        "width": 1440,
+        "height": 1088,
+        "every_n_frames": 1,
+        "saved_frames": 475,
+        "frames_folder": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam7/frames",
+        "manifest": "/Users/nilamaitrachaity/Desktop/Lensboy_Calibration/outputs/multicamera/dark_frames-no_common_pose_frame/cam7/reports/frame_manifest.csv"
+    }
+]
